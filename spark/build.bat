@@ -1,0 +1,1 @@
+docker build -t mi-spark:3.5.0 .
